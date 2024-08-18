@@ -14,23 +14,22 @@ This allows for multiple passwords to be used for different text.
 
 1. Add the URL https://marcello09.github.io/notion-lock/en as an embedded view on any page of Notion.
 2. Resize the frame to your liking.
-3. you are done! =D
 
 ## Encrypt text
 
-1. Type a password or passfrase to encrypt your data, you must remember this password and type exactly it in order to recover (decrypt)
-2. Type the text you wish to encrypt
-3. Choose the checkbox "Encrypt text"
-4. Press the blue buttom "Generate text"
-5. Copy the text below Result, this is your encrypted data, or press the buttom "Copy to Clipboard"
-6. Save the text anywhere you wish on Notion
+1. Type a password or passfrase to encrypt your data, you must remember this password in order to recover (decrypt) the data.
+2. Type the text you wish to encrypt.
+3. Choose the checkbox “Encrypt Text”.
+4. Press the button “Generate Text”.
+5. Copy the text below Result, this is your encrypted data, or press the button “Copy to clipboard”.
+6. Save the text anywhere you wish on Notion.
 
 ## Decrypt text
 
-1. Type the password or passfrase you used to encrypt your text
-2. Copy the encrypted text to the textarea field
-3. Choose the checkbox "Decrypt"
-4. Press the green button "Generate Text"
+1. Type the password or passfrase you used to encrypt your text.
+2. Copy the encrypted text to the textarea field.
+3. Choose the checkbox “Decrypt Text”.
+4. Press the button “Generate Text”.
 5. Thats it! Your secret data is now available to you!
 
 # Forking the project
