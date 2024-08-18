@@ -1,9 +1,4 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Marcello09/notion-lock/blob/main/README.md)
-[![pt](https://img.shields.io/badge/lang-pt-red.svg)](https://github.com/Marcello09/notion-lock/blob/main/README.pt-BR.md)
-
-
-[![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-green.svg)](https://marcello09.github.io/donate-bitcoin/?amount=5&currency=USD)
-[![Donate Paypal](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/donate?business=V3VEBC9N4S6ES&no_recurring=0&currency_code=USD)
 
 # notion-lock
 
@@ -38,20 +33,14 @@ This allows for multiple passwords to be used for different text.
 4. Press the green button "Generate Text"
 5. Thats it! Your secret data is now available to you!
 
-# Afraid of me deleting this repo?
+# Forking the project
 
-Some users have reached me out asking how relaiable their sensitive data is store since this is a public project hosted on github pages. I can´t garantee that this repo will live forever nor github pages will always be working. 
+To ensure continued access to this tool, you can fork the original repository to your GitHub account and set up GitHub Pages on your forked project. This way, you're not dependent on the original repository's availability.
 
-To solve the issue of me deleting this repo, although I have no intention in doing it, you can always fork this repo. You will have it on your github account, and then you can set up github pages on your forked project. This negates the possibility of me deleting the repo. 
+The entire script is contained within a single index.html file, so it can also be hosted independently of GitHub Pages if you have a hosting service.
 
-Here is a how to setup github pages on a projec in case you don´t know how: [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
+Here is a how to setup github pages on a project in case you don´t know how: [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
 
-The script is all in one single index.html file as well, so if you happen to have a hosting service, you can put it in there and avoid depending on github pages.
+Disclaimer: The add-on runs entirely in your browser's memory using AES encryption. There is no way to recover encrypted data if you lose your password.
 
-#### Disclaimer: The add-on uses AES encryption in Browser, no data is send to any server during encryption or decryption. It runs local on your machine memory !! There is no way to recover data stored if you lose your password 
-
-# Like it?
-
-* Collab
-* Suggest new addons
-* Help me with a few bucks for a coffee ;D
+Project forked from Marcello09/notion-lock.
